@@ -1,0 +1,22 @@
+.main{
+    
+    width: 40%;
+    margin-top: 50px;
+    padding: 10px;
+    box-shadow: 1px 1px 10px silver;
+}
+input{
+    width: 60%;
+    padding: 5px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+button{
+    width: 40%;
+    padding: 5px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    
+}
+
+
